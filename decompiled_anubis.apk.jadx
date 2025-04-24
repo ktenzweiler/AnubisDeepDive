@@ -11,6 +11,18 @@
     [
       "Resources",
       "cae0c0d33e68be9cf81099680b815eb714d8296cb219b7a6247f7f081820f39a.apk"
+    ],
+    [
+      "Resources",
+      "decompiled_anubis.apk"
+    ],
+    [
+      "Resources",
+      "decompiled_anubis.apk"
+    ],
+    [
+      "Resources",
+      "decompiled_anubis.apk"
     ]
   ],
   "codeData": {
@@ -19,9 +31,81 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "Ad:Ljava/lang/String;"
+        },
+        "comment": "Download Module:",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Db:Ljava/lang/String;"
+        },
+        "comment": ",\"exit\":\"\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Eb:Ljava/lang/String;"
+        },
+        "comment": ",\"exit\":\"true\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Ed:Ljava/lang/String;"
+        },
+        "comment": "com.example.modulebot.mod",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Fa:[Ljava/lang/String;"
+        },
+        "comment": "android.permission.SEND_SMS, android.permission.READ_PHONE_STATE, android.permission.READ_CONTACTS",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Ha:Ljava/lang/String;"
+        },
+        "comment": "package:",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Hb:Ljava/lang/String;"
+        },
+        "comment": ":",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "Hc:Ljava/lang/String;"
         },
         "comment": "varsayılan",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "La:Ljava/lang/String;"
+        },
+        "comment": "Content-Length",
         "style": "LINE"
       },
       {
@@ -64,6 +148,15 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "Ra:Ljava/lang/String;"
+        },
+        "comment": "/gate.php",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "Rc:Ljava/lang/String;"
         },
         "comment": "com.android.vending:id/toolbar_item_play_protect_settings",
@@ -91,9 +184,90 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "Yc:Ljava/lang/String;"
+        },
+        "comment": "jsonCheckBot:",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "Zb:Ljava/lang/String;"
         },
         "comment": "android:id/button1",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Zc:Ljava/lang/String;"
+        },
+        "comment": ",",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "_a:Ljava/lang/String;"
+        },
+        "comment": "action\u003dbotcheck\u0026data\u003d",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ab:Ljava/lang/String;"
+        },
+        "comment": "||no||",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ad:Ljava/lang/String;"
+        },
+        "comment": "~I~",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "bb:Ljava/lang/String;"
+        },
+        "comment": "action\u003dregistration\u0026data\u003d",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "gb:Ljava/lang/String;"
+        },
+        "comment": "action\u003dgetModule\u0026data\u003d",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "hb:Ljava/lang/String;"
+        },
+        "comment": "action\u003dcheckAP\u0026data\u003d",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ib:Ljava/lang/String;"
+        },
+        "comment": "Not Yet Implemented",
         "style": "LINE"
       },
       {
@@ -136,6 +310,51 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "ne:Ljava/lang/String;"
+        },
+        "comment": "Inject:",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ra:Ljava/lang/String;"
+        },
+        "comment": "android.app.action.ADD_DEVICE_ADMIN",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "rd:Ljava/lang/String;"
+        },
+        "comment": "Tick:",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "sa:Ljava/lang/String;"
+        },
+        "comment": "android.app.extra.DEVICE_ADMIN",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ta:Ljava/lang/String;"
+        },
+        "comment": "android.app.extra.ADD_EXPLANATION",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "tb:Ljava/lang/String;"
         },
         "comment": "var lang \u003d \u0027en\u0027",
@@ -163,6 +382,33 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "vb:Ljava/lang/String;"
+        },
+        "comment": "app \u003d \u0027THISSTRINGREPLACEWITHAPPNAME\u0027",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "wb:Ljava/lang/String;"
+        },
+        "comment": "app \u003d \u0027",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "xb:Ljava/lang/String;"
+        },
+        "comment": "\u0027",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "yc:Ljava/lang/String;"
         },
         "comment": "\" \"",
@@ -175,6 +421,19 @@
           "shortId": "ye:Ljava/lang/String;"
         },
         "comment": "[ua][ru][by][tj][uz][tm][az][am][kz][kg][md]",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.vlav.lyruzhnutuotd",
+          "shortId": "onStartCommand(Landroid/content/Intent;II)I"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 25
+        },
+        "comment": "1 is for the Accelerometer",
         "style": "LINE"
       }
     ],
@@ -196,6 +455,20 @@
       {
         "nodeRef": {
           "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.a.b"
+        },
+        "newName": "NetworkRequests"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.a.b$a"
+        },
+        "newName": "NetworkRequestTask"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
           "declClass": "com.bth.goqcsies.b.a"
         },
         "newName": "DataRepo"
@@ -210,6 +483,20 @@
       {
         "nodeRef": {
           "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.djdqmc.a"
+        },
+        "newName": "MyDeviceAdminReceiverComponentNameUtil"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.djdqmc.ayvecxfvbvxrtl"
+        },
+        "newName": "StartRequestAdminReceiver"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
           "declClass": "com.bth.goqcsies.djdqmc.msaadsltqr"
         },
         "newName": "MyDeviceAdminReceiver"
@@ -220,6 +507,48 @@
           "declClass": "com.bth.goqcsies.dogdhxdauc"
         },
         "newName": "LaunchActivity"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.iubutyoz.fwwecrdhp"
+        },
+        "newName": "BootSmsPMReceiver"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr"
+        },
+        "newName": "MyOtherWebViewActivity"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr$a"
+        },
+        "newName": "MyChromeClient"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr$b"
+        },
+        "newName": "MyWebViewClient"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr$c"
+        },
+        "newName": "MyJSInterface"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.lzctdazz.ketn"
+        },
+        "newName": "IgnoreBatteryOptimizationsActivity"
       },
       {
         "nodeRef": {
@@ -252,9 +581,37 @@
       {
         "nodeRef": {
           "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.lzctdazz.yzdnoywekakhvrqe"
+        },
+        "newName": "RequestPermissionsActivity"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
           "declClass": "com.bth.goqcsies.vlav.fxunndmgevp"
         },
         "newName": "ShowToastService"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.vlav.kkuqmhjzasxr"
+        },
+        "newName": "MaliciousService"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.vlav.lyruzhnutuotd"
+        },
+        "newName": "AccelerometerListenerService"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.bth.goqcsies.vlav.tyrpvbqjol"
+        },
+        "newName": "DownloadPayloadService"
       },
       {
         "nodeRef": {
@@ -269,6 +626,14 @@
           "declClass": "com.bth.goqcsies.vlav.xqhpwcjauqbmi"
         },
         "newName": "MyAccessibilityService"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "A:Ljava/lang/String;"
+        },
+        "newName": "str_statMails"
       },
       {
         "nodeRef": {
@@ -290,6 +655,14 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "Ad:Ljava/lang/String;"
+        },
+        "newName": "str_DownloadModule_colon"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "Ae:[Ljava/lang/Class;"
         },
         "newName": "classesArr"
@@ -298,9 +671,25 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "B:Ljava/lang/String;"
+        },
+        "newName": "str_activeDevice"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "Ba:Ljava/lang/String;"
         },
         "newName": "str_xhawjEzbgG23j"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Bb:Ljava/lang/String;"
+        },
+        "newName": "str_application"
       },
       {
         "nodeRef": {
@@ -322,6 +711,14 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "Cb:Ljava/lang/String;"
+        },
+        "newName": "str_data"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "D:Ljava/lang/String;"
         },
         "newName": "str_statDownloadModule"
@@ -333,6 +730,22 @@
           "shortId": "Da:Ljava/lang/String;"
         },
         "newName": "str_android_provider_Telephony_SMS_RECEIVED"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Db:Ljava/lang/String;"
+        },
+        "newName": "str_exit_colon"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Dd:Ljava/lang/String;"
+        },
+        "newName": "str_outdex"
       },
       {
         "nodeRef": {
@@ -354,6 +767,54 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "Eb:Ljava/lang/String;"
+        },
+        "newName": "str_exit_true"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Ed:Ljava/lang/String;"
+        },
+        "newName": "str_com_example_modulebot_mod"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Fa:[Ljava/lang/String;"
+        },
+        "newName": "arr_sms_phoneState_readContacts_permissions"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Fd:Ljava/lang/String;"
+        },
+        "newName": "str_main"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Ha:Ljava/lang/String;"
+        },
+        "newName": "str_package_colon"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Hb:Ljava/lang/String;"
+        },
+        "newName": "str_colon"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "Hc:Ljava/lang/String;"
         },
         "newName": "str_varsayılan"
@@ -365,6 +826,14 @@
           "shortId": "Ia:Ljava/lang/String;"
         },
         "newName": "str_shiftRight"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Ib:Ljava/lang/String;"
+        },
+        "newName": "str_admin"
       },
       {
         "nodeRef": {
@@ -394,9 +863,25 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "Ka:Ljava/lang/String;"
+        },
+        "newName": "str_POST"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "Kc:Ljava/lang/String;"
         },
         "newName": "str_ok"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "La:Ljava/lang/String;"
+        },
+        "newName": "str_Content_dash_Length"
       },
       {
         "nodeRef": {
@@ -546,6 +1031,14 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "Ra:Ljava/lang/String;"
+        },
+        "newName": "str_gate_dot_php"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "Rc:Ljava/lang/String;"
         },
         "newName": "str_com_android_vending_id_toolbar_item_play_protect_settings"
@@ -602,9 +1095,65 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "Vc:Ljava/lang/String;"
+        },
+        "newName": "str_id"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Wc:Ljava/lang/String;"
+        },
+        "newName": "str_number"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Y:Ljava/lang/String;"
+        },
+        "newName": "str_locale"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Yc:Ljava/lang/String;"
+        },
+        "newName": "str_jsonCheckBot_colon"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Z:Ljava/lang/String;"
+        },
+        "newName": "str_batteryLevel"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "Zb:Ljava/lang/String;"
         },
         "newName": "str_android_id_button1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "Zc:Ljava/lang/String;"
+        },
+        "newName": "str_comma"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "_a:Ljava/lang/String;"
+        },
+        "newName": "str_action_botcheck_data"
       },
       {
         "nodeRef": {
@@ -618,9 +1167,41 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "aa:Ljava/lang/String;"
+        },
+        "newName": "str_urls"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ab:Ljava/lang/String;"
+        },
+        "newName": "str_pipepipe_no_pipepipe"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ad:Ljava/lang/String;"
+        },
+        "newName": "str_tilda_I_tilda"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "b:Ljava/lang/String;"
         },
         "newName": "str_idbot"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "bb:Ljava/lang/String;"
+        },
+        "newName": "str_action_registration_data"
       },
       {
         "nodeRef": {
@@ -637,6 +1218,14 @@
           "shortId": "ca:Ljava/lang/String;"
         },
         "newName": "str_startInstalledTeamViewer"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "d:Ljava/lang/String;"
+        },
+        "newName": "str_urlAdminPanel"
       },
       {
         "nodeRef": {
@@ -674,6 +1263,22 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "gb:Ljava/lang/String;"
+        },
+        "newName": "str_action_getModule_and_data"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "gd:Ljava/lang/String;"
+        },
+        "newName": "str_android"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "h:Ljava/lang/String;"
         },
         "newName": "str_killApplication"
@@ -690,9 +1295,57 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "hb:Ljava/lang/String;"
+        },
+        "newName": "str_action_check_data"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "hd:Ljava/lang/String;"
+        },
+        "newName": "str_tag"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "he:Ljava/lang/String;"
         },
         "newName": "str_InitializationStart2_exclamation"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "i:Ljava/lang/String;"
+        },
+        "newName": "str_step"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ib:Ljava/lang/String;"
+        },
+        "newName": "str_NotYetImplemented"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "id:Ljava/lang/String;"
+        },
+        "newName": "str_country"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ie:Ljava/lang/String;"
+        },
+        "newName": "str_startPush"
       },
       {
         "nodeRef": {
@@ -722,6 +1375,22 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "jd:Ljava/lang/String;"
+        },
+        "newName": "str_operator"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "je:Ljava/lang/String;"
+        },
+        "newName": "str_push"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "kb:Ljava/lang/String;"
         },
         "newName": "str_Android"
@@ -730,9 +1399,25 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "kd:Ljava/lang/String;"
+        },
+        "newName": "str_model"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "ke:Ljava/lang/String;"
         },
         "newName": "str_html_open_tag_en"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "l:Ljava/lang/String;"
+        },
+        "newName": "str_checkupdateInjection"
       },
       {
         "nodeRef": {
@@ -778,9 +1463,41 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "n:Ljava/lang/String;"
+        },
+        "newName": "str_actionSettingInection"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "nb:Ljava/lang/String;"
         },
         "newName": "str_Tooltip_YouneedenableAccessibility"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "nd:Ljava/lang/String;"
+        },
+        "newName": "str_ok_"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ne:Ljava/lang/String;"
+        },
+        "newName": "str_Inject_colon"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "o:Ljava/lang/String;"
+        },
+        "newName": "str_listSaveLogsInjection"
       },
       {
         "nodeRef": {
@@ -818,9 +1535,73 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "pd:Ljava/lang/String;"
+        },
+        "newName": "str_updateSettingsAndCommands"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "qa:Ljava/lang/String;"
         },
         "newName": "str_device_policy"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "qd:Ljava/lang/String;"
+        },
+        "newName": "str_response"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ra:Ljava/lang/String;"
+        },
+        "newName": "str_android_app_action_ADD_DEVICE_ADMIN"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "rb:Ljava/lang/String;"
+        },
+        "newName": "str_grabCC"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "rd:Ljava/lang/String;"
+        },
+        "newName": "str_Tick_colon"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "s:Ljava/lang/String;"
+        },
+        "newName": "str_idSettings"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "sa:Ljava/lang/String;"
+        },
+        "newName": "str_android_app_extraDEVICE_ADMIN"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "sb:Ljava/lang/String;"
+        },
+        "newName": "str_grabMails"
       },
       {
         "nodeRef": {
@@ -837,6 +1618,22 @@
           "shortId": "se:Ljava/lang/String;"
         },
         "newName": "str_dot"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "t:Ljava/lang/String;"
+        },
+        "newName": "str_statAdmin"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "ta:Ljava/lang/String;"
+        },
+        "newName": "str_android_app_extraADD_EXPLANATION"
       },
       {
         "nodeRef": {
@@ -866,6 +1663,14 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "u:Ljava/lang/String;"
+        },
+        "newName": "str_statProtect"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "ub:Ljava/lang/String;"
         },
         "newName": "str_lang_equals_apostrophe"
@@ -877,6 +1682,22 @@
           "shortId": "ud:Ljava/lang/String;"
         },
         "newName": "str_tick"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "v:Ljava/lang/String;"
+        },
+        "newName": "str_statScreen"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "vb:Ljava/lang/String;"
+        },
+        "newName": "str_app_equals_appname"
       },
       {
         "nodeRef": {
@@ -906,6 +1727,14 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "wb:Ljava/lang/String;"
+        },
+        "newName": "str_app_equals_apostrophe"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "we:Ljava/lang/String;"
         },
         "newName": "str_Enable"
@@ -914,9 +1743,33 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "x:Ljava/lang/String;"
+        },
+        "newName": "str_statSMS"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "xa:Ljava/lang/String;"
         },
         "newName": "str_settings"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "xb:Ljava/lang/String;"
+        },
+        "newName": "str_apostroph"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "y:Ljava/lang/String;"
+        },
+        "newName": "str_statCards"
       },
       {
         "nodeRef": {
@@ -933,6 +1786,30 @@
           "shortId": "ye:Ljava/lang/String;"
         },
         "newName": "str_country_blacklist"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
+          "shortId": "z:Ljava/lang/String;"
+        },
+        "newName": "str_statBanks"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a.b",
+          "shortId": "a:Lcom/bth/goqcsies/a;"
+        },
+        "newName": "stringsObj"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a.b$a",
+          "shortId": "a:Ljava/lang/String;"
+        },
+        "newName": "response"
       },
       {
         "nodeRef": {
@@ -973,6 +1850,30 @@
           "shortId": "a:Lcom/bth/goqcsies/a;"
         },
         "newName": "stringsObj"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.djdqmc.a",
+          "shortId": "a:Landroid/content/ComponentName;"
+        },
+        "newName": "myDeviceAdminReceiverComponentName"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.djdqmc.ayvecxfvbvxrtl",
+          "shortId": "a:Lcom/bth/goqcsies/a;"
+        },
+        "newName": "stringsObj"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.djdqmc.ayvecxfvbvxrtl",
+          "shortId": "b:Lcom/bth/goqcsies/b/a;"
+        },
+        "newName": "repo"
       },
       {
         "nodeRef": {
@@ -1041,6 +1942,110 @@
       {
         "nodeRef": {
           "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.a",
+          "shortId": "a:Lcom/bth/goqcsies/lzctdazz/jewzlwpwttirjtr;"
+        },
+        "newName": "myOtherWebViewActivity"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
+          "shortId": "a:Lcom/bth/goqcsies/a;"
+        },
+        "newName": "stringsObj"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
+          "shortId": "b:Lcom/bth/goqcsies/b/a;"
+        },
+        "newName": "repo"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
+          "shortId": "c:Ljava/lang/String;"
+        },
+        "newName": "TAG"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
+          "shortId": "d:Ljava/lang/String;"
+        },
+        "newName": "appInject"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
+          "shortId": "e:Ljava/lang/String;"
+        },
+        "newName": "nameInject"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
+          "shortId": "f:Ljava/lang/String;"
+        },
+        "newName": "randomString"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
+          "shortId": "g:Ljava/lang/String;"
+        },
+        "newName": "appOrNameInject"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
+          "shortId": "h:Ljava/lang/String;"
+        },
+        "newName": "newOrOld"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
+          "shortId": "j:Z"
+        },
+        "newName": "activityStarted"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr$c",
+          "shortId": "a:Landroid/content/Context;"
+        },
+        "newName": "context"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.ketn",
+          "shortId": "a:Lcom/bth/goqcsies/b/b;"
+        },
+        "newName": "permUtil"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.ketn",
+          "shortId": "b:Lcom/bth/goqcsies/a;"
+        },
+        "newName": "stringsObj"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
           "declClass": "com.bth.goqcsies.lzctdazz.rpwau",
           "shortId": "a:Lcom/bth/goqcsies/b/a;"
         },
@@ -1061,6 +2066,22 @@
           "shortId": "a:Landroid/content/Context;"
         },
         "newName": "context"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.yzdnoywekakhvrqe",
+          "shortId": "a:Lcom/bth/goqcsies/a;"
+        },
+        "newName": "stringsObj"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.lzctdazz.yzdnoywekakhvrqe",
+          "shortId": "b:Lcom/bth/goqcsies/b/a;"
+        },
+        "newName": "repo"
       },
       {
         "nodeRef": {
@@ -1117,6 +2138,70 @@
           "shortId": "f:I"
         },
         "newName": "sleepTime"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.vlav.lyruzhnutuotd",
+          "shortId": "a:Lcom/bth/goqcsies/b/a;"
+        },
+        "newName": "repo"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.vlav.lyruzhnutuotd",
+          "shortId": "b:Lcom/bth/goqcsies/a;"
+        },
+        "newName": "stringsObj"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.vlav.lyruzhnutuotd",
+          "shortId": "k:Landroid/hardware/SensorManager;"
+        },
+        "newName": "sensorManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.vlav.lyruzhnutuotd",
+          "shortId": "l:Landroid/hardware/Sensor;"
+        },
+        "newName": "sensor"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.vlav.tyrpvbqjol",
+          "shortId": "a:Lcom/bth/goqcsies/a;"
+        },
+        "newName": "stringsObj"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.vlav.tyrpvbqjol",
+          "shortId": "b:Ljava/lang/String;"
+        },
+        "newName": "TAG"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.vlav.tyrpvbqjol",
+          "shortId": "c:Lcom/bth/goqcsies/b/a;"
+        },
+        "newName": "repo"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.vlav.tyrpvbqjol",
+          "shortId": "d:Lcom/bth/goqcsies/b/b;"
+        },
+        "newName": "permUtil"
       },
       {
         "nodeRef": {
@@ -1217,6 +2302,62 @@
       {
         "nodeRef": {
           "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.a.b",
+          "shortId": "a(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 262144
+        },
+        "newName": "domain"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.a.b",
+          "shortId": "a(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "makeRequest"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.a.b",
+          "shortId": "a(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 327680
+        },
+        "newName": "requestBody"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.a.b$a",
+          "shortId": "a([Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65536
+        },
+        "newName": "domain"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.a.b$a",
+          "shortId": "a([Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 393219
+        },
+        "newName": "requestBody"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
           "declClass": "com.bth.goqcsies.b.a",
           "shortId": "a(I)V"
         },
@@ -1229,6 +2370,14 @@
           "shortId": "a(Landroid/content/Context;)Z"
         },
         "newName": "alwaysReturnsFalse"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "a(Landroid/content/Context;Ljava/lang/Class;)Z"
+        },
+        "newName": "isAccessibilityServiceGranted"
       },
       {
         "nodeRef": {
@@ -1250,9 +2399,25 @@
         "nodeRef": {
           "refType": "METHOD",
           "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "a(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "newName": "resetSettingInSharedPrefs"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "a(Ljava/lang/String;Landroid/content/Context;)V"
+        },
+        "newName": "startIgnoreBatteryOptimizationsActivity"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
           "shortId": "a(Ljava/lang/String;Ljava/lang/String;)V"
         },
-        "newName": "possibleDeadCode"
+        "newName": "log"
       },
       {
         "nodeRef": {
@@ -1290,6 +2455,70 @@
         "nodeRef": {
           "refType": "METHOD",
           "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "b(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "newName": "updateSharedPrefs"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "b(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "parseResponse2"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "c(Landroid/content/Context;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "makeUrlAdminPanelRequest"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "c(Landroid/content/Context;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 262145
+        },
+        "newName": "urlAdminPanel"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "c(Landroid/content/Context;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 327680
+        },
+        "newName": "requestBody"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "c(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "parseResponse"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "d(Landroid/content/Context;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "invokeMainFromSecondApk"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
           "shortId": "d(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
         },
         "newName": "writeToSharedPrefs"
@@ -1301,6 +2530,22 @@
           "shortId": "e(Landroid/content/Context;)Z"
         },
         "newName": "isNOTInKeyguardRestrictedInputMode"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "f(Landroid/content/Context;)Ljava/lang/String;"
+        },
+        "newName": "isDefaultSMSMessenger"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.b.a",
+          "shortId": "g(Landroid/content/Context;)Z"
+        },
+        "newName": "isSMSContactsPhoneStatePermissionsGranted"
       },
       {
         "nodeRef": {
@@ -1389,6 +2634,74 @@
           "shortId": "c(Landroid/content/Context;)Z"
         },
         "newName": "isIgnoringBatteryOptimizations"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.djdqmc.a",
+          "shortId": "a()Landroid/content/ComponentName;"
+        },
+        "newName": "getMyDeviceAdminReceiverComponentName"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
+          "shortId": "onStart()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65551
+        },
+        "newName": "startPushSetting"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.vlav.lyruzhnutuotd",
+          "shortId": "a()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 3
+        },
+        "newName": "stepNumber"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.vlav.tyrpvbqjol",
+          "shortId": "a(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 2
+        },
+        "newName": "idbot"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.vlav.tyrpvbqjol",
+          "shortId": "a(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131080
+        },
+        "newName": "urlAdminPanelResponse"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.bth.goqcsies.vlav.tyrpvbqjol",
+          "shortId": "a(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 262150
+        },
+        "newName": "urls"
       },
       {
         "nodeRef": {
