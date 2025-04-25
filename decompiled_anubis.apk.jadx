@@ -245,6 +245,21 @@
     [
       "Resources",
       "decompiled_anubis.apk"
+    ],
+    [
+      "Resources",
+      "decompiled_anubis.apk"
+    ],
+    [
+      "com.bth.goqcsies.lzctdazz.b",
+      "lzctdazz",
+      "com.bth.goqcsies",
+      "Source code",
+      "decompiled_anubis.apk"
+    ],
+    [
+      "Resources",
+      "decompiled_anubis.apk"
     ]
   ],
   "codeData": {
@@ -676,6 +691,15 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "ue:Ljava/lang/String;"
+        },
+        "comment": "com.android.vending,org.telegram.messenger,com.ubercab,com.whatsapp,com.tencent.mm,com.viber.voip,com.snapchat.android,com.instagram.android,com.imo.android.imoim,com.twitter.android,",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "vb:Ljava/lang/String;"
         },
         "comment": "app \u003d \u0027THISSTRINGREPLACEWITHAPPNAME\u0027",
@@ -798,7 +822,7 @@
           "attachType": "INSN",
           "index": 242
         },
-        "comment": "See file \u0027index.html\u0027 for what this looks like after all the string replacement",
+        "comment": "See file \u0027HowToEnableAccessibilityTutorial.html\u0027 for what this looks like after all the string replacement",
         "style": "JAVADOC"
       },
       {
@@ -2371,6 +2395,14 @@
         "nodeRef": {
           "refType": "FIELD",
           "declClass": "com.bth.goqcsies.a",
+          "shortId": "ue:Ljava/lang/String;"
+        },
+        "newName": "str_packagesOfInterest"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.bth.goqcsies.a",
           "shortId": "v:Ljava/lang/String;"
         },
         "newName": "str_statScreen"
@@ -3586,7 +3618,7 @@
       "type": "class",
       "tabPath": "com.bth.goqcsies.dogdhxdauc",
       "subPath": "java",
-      "caret": 1992,
+      "caret": 2112,
       "view": {
         "x": 0,
         "y": 0
@@ -3597,13 +3629,27 @@
       "hidden": false
     },
     {
+      "type": "resource",
+      "tabPath": "AndroidManifest.xml",
+      "subPath": "",
+      "caret": 6016,
+      "view": {
+        "x": 0,
+        "y": 1214
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
       "type": "class",
       "tabPath": "com.bth.goqcsies.b.a",
       "subPath": "java",
-      "caret": 12962,
+      "caret": 4517,
       "view": {
         "x": 0,
-        "y": 2318
+        "y": 919
       },
       "active": false,
       "pinned": false,
@@ -3616,22 +3662,8 @@
       "subPath": "java",
       "caret": 619,
       "view": {
-        "x": 1,
-        "y": 262
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "resource",
-      "tabPath": "AndroidManifest.xml",
-      "subPath": "",
-      "caret": 6252,
-      "view": {
-        "x": 0,
-        "y": 1204
+        "x": 11,
+        "y": 75
       },
       "active": false,
       "pinned": false,
@@ -3642,7 +3674,7 @@
       "type": "class",
       "tabPath": "com.bth.goqcsies.vlav.kkuqmhjzasxr",
       "subPath": "java",
-      "caret": 4269,
+      "caret": 3585,
       "view": {
         "x": 0,
         "y": 907
@@ -3654,12 +3686,54 @@
     },
     {
       "type": "class",
-      "tabPath": "com.bth.goqcsies.a",
+      "tabPath": "com.bth.goqcsies.lzctdazz.rpwau",
       "subPath": "java",
-      "caret": 35143,
+      "caret": 2798,
+      "view": {
+        "x": 6,
+        "y": 1027
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.bth.goqcsies.lzctdazz.yzdnoywekakhvrqe",
+      "subPath": "java",
+      "caret": 327,
       "view": {
         "x": 0,
-        "y": 13020
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.bth.goqcsies.a",
+      "subPath": "java",
+      "caret": 90167,
+      "view": {
+        "x": 0,
+        "y": 13672
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.bth.goqcsies.vlav.tyrpvbqjol",
+      "subPath": "java",
+      "caret": 6707,
+      "view": {
+        "x": 4,
+        "y": 1161
       },
       "active": false,
       "pinned": false,
@@ -3670,7 +3744,7 @@
       "type": "class",
       "tabPath": "com.bth.goqcsies.a.a",
       "subPath": "java",
-      "caret": 1584,
+      "caret": 1082,
       "view": {
         "x": 0,
         "y": 57
@@ -3684,21 +3758,7 @@
       "type": "class",
       "tabPath": "com.bth.goqcsies.lzctdazz.ketn",
       "subPath": "java",
-      "caret": 822,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.bth.goqcsies.a.b",
-      "subPath": "java",
-      "caret": 594,
+      "caret": 331,
       "view": {
         "x": 0,
         "y": 0
@@ -3712,82 +3772,12 @@
       "type": "class",
       "tabPath": "com.bth.goqcsies.vlav.xqhpwcjauqbmi",
       "subPath": "java",
-      "caret": 62163,
+      "caret": 62182,
       "view": {
-        "x": 0,
-        "y": 15857
+        "x": 4,
+        "y": 15907
       },
       "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.bth.goqcsies.lzctdazz.bhqkdytxpwq",
-      "subPath": "java",
-      "caret": 727,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.bth.goqcsies.vlav.fxunndmgevp",
-      "subPath": "java",
-      "caret": 344,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.bth.goqcsies.djdqmc.msaadsltqr",
-      "subPath": "java",
-      "caret": 243,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.bth.goqcsies.djdqmc.a",
-      "subPath": "java",
-      "caret": 195,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.bth.goqcsies.lzctdazz.jewzlwpwttirjtr",
-      "subPath": "java",
-      "caret": 108,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": true,
       "pinned": false,
       "bookmarked": false,
       "hidden": false
